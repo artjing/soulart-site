@@ -46,3 +46,6 @@ em,.join em{font-style:normal}
 .lede{font-family:ArtwardGrotesk,-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;letter-spacing:-.025em}
 .phone,.phone:not(.companion),.hero-art .phone.companion{border-color:#111a14}
 .screen img,.gallery-window img{border:3px solid #141c17;box-shadow:12px 18px 35px #0002}
+
+/* The score field replaces the old pale oval around the hero phones. */
+.hero-art .halo{display:none}
